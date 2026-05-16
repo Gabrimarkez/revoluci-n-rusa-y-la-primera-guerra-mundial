@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260516224417429KU8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260516224417HLJD9E</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Hacia el abismo? </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Un viaje digital por las trincheras y la Revolución Rusa.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Gabriel Márquez Egea</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se trata de una Situación de Aprendizaje en la que el alumnado debe comprender las causas y consecuencias de la Primera Guerra Mundial y el proceso revolucionario ruso. Trabajará con fuentes directas (textos, mapas y cartelería) para analizar el concepto de &quot;guerra total&quot; y la formación de la URSS, desarrollando un producto final colaborativo que sintetice estos hitos históricos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778964212185</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp8tcz0m-zz8n7vbkj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz0m-zz8n7vbkj</odePageId>
+      <odeBlockId>block-1778952061743-ed2xjdfwn</odeBlockId>
+      <blockName>¿HACIA EL ABISMO?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz0m-zz8n7vbkj</odePageId>
+          <odeBlockId>block-1778952061743-ed2xjdfwn</odeBlockId>
+          <odeIdeviceId>idevice-1778952061742-1uwwqncd0</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1JfHqgPuRMhcRdQZkCdAHy2zoVLmN_zAwWeg2ZSFghNg/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz0q-a4c294rzg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y garantía de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz0q-a4c294rzg</odePageId>
+      <odeBlockId>block-1778952578100-kwsdn0yo5</odeBlockId>
+      <blockName>Protección de datos y garantía de derechos digitales del investigador</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz0q-a4c294rzg</odePageId>
+          <odeBlockId>block-1778952578100-kwsdn0yo5</odeBlockId>
+          <odeIdeviceId>idevice-1778952578097-w32cdjoqi</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778952578097-w32cdjoqi" title="datos" href="{{context_path}}/content/resources/img5.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/img5.jpg" height="128" width="128" title="datos" alt="datos" titlelink="" author="Gabriel Márquez Egea" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778952578097-w32cdjoqi","img_0":{"img":"blob:app://localhost/484b261a-3737-42dc-9cb3-03d8c28e138e","thumbnail":"blob:app://localhost/484b261a-3737-42dc-9cb3-03d8c28e138e","title":"datos","linktitle":"","author":"Gabriel Márquez Egea","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz0v-3m65b6f2s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz0v-3m65b6f2s</odePageId>
+      <odeBlockId>block-1778953301291-etcymw2s5</odeBlockId>
+      <blockName>PERIÓDICO DIGITAL</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz0v-3m65b6f2s</odePageId>
+          <odeBlockId>block-1778953301291-etcymw2s5</odeBlockId>
+          <odeIdeviceId>idevice-1778953301284-oasmoka4g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>PRODUCTO FINAL.</strong></p>
+<p style="text-align: justify;">En este caso, el alumnado deberá elaborar un <strong>periódico digital</strong> que recoja las investigaciones y crónicas realizadas durante la unidad.</p>
+<p style="text-align: justify;">La herramienta seleccionada ha sido: <strong>"BookCreator"</strong></p>
+<p style="text-align: justify;">El objetivo principal es transformar el aprendizaje de contenidos teóricos en un proceso de creación activa. Con BookCreator, busco que el alumnado trabaje la alfabetización mediática y la competencia lingüística, diseñando un producto real que integre diferentes lenguajes (textual, icónico y multimedia) para comunicar sus hallazgos de forma profesional y atractiva.</p>
+<p style="text-align: center;"><strong>Justificación</strong></p>
+<p style="text-align: justify;"><strong>Versatilidad y Multimedia:</strong> He seleccionado BookCreator por su capacidad para integrar no solo texto e imágenes, sino también audios (entrevistas grabadas), vídeos y elementos interactivos. Esto permite que el periódico no sea un documento estático, sino un recurso digital enriquecido. Casa muy bien con el nivel de la competencia digital del alumnado.<br /><strong>Contexto y Disponibilidad:</strong>  No requiere instalaciones complejas y es totalmente compatible con los dispositivos (portátiles/tablets) de los que dispone el alumnado y el centro educativo, permitiendo el trabajo colaborativo en tiempo real.<br /><strong>Características del Alumnado:</strong> La interfaz de BookCreator es sumamente intuitiva ("arrastrar y soltar"), lo que reduce la curva de aprendizaje técnico. Esto es vital para que los alumnos no se frustren con la tecnología y puedan centrarse en la calidad del contenido periodístico. Se ajusta muy bien a su nivel de competencia digital, permitiendo desde el diseño básico hasta la edición avanzada. Considero que es correcta para alumnado con 16 años de media.<br /><strong>Inclusión y DUA:</strong> La herramienta ofrece opciones de accesibilidad, como el dictado por voz o la lectura de libros, lo que garantiza que todo el alumnado, independientemente de sus necesidades específicas, pueda participar activamente en la creación del periódico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778953301284-oasmoka4g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>PRODUCTO FINAL.</strong></p>\n<p style=\"text-align: justify;\">En este caso, el alumnado deberá elaborar un <strong>periódico digital</strong> que recoja las investigaciones y crónicas realizadas durante la unidad.</p>\n<p style=\"text-align: justify;\">La herramienta seleccionada ha sido: <strong>\"BookCreator\"</strong></p>\n<p style=\"text-align: justify;\">El objetivo principal es transformar el aprendizaje de contenidos teóricos en un proceso de creación activa. Con BookCreator, busco que el alumnado trabaje la alfabetización mediática y la competencia lingüística, diseñando un producto real que integre diferentes lenguajes (textual, icónico y multimedia) para comunicar sus hallazgos de forma profesional y atractiva.</p>\n<p style=\"text-align: center;\"><strong>Justificación</strong></p>\n<p style=\"text-align: justify;\"><strong>Versatilidad y Multimedia:</strong> He seleccionado BookCreator por su capacidad para integrar no solo texto e imágenes, sino también audios (entrevistas grabadas), vídeos y elementos interactivos. Esto permite que el periódico no sea un documento estático, sino un recurso digital enriquecido. Casa muy bien con el nivel de la competencia digital del alumnado.<br /><strong>Contexto y Disponibilidad:</strong>  No requiere instalaciones complejas y es totalmente compatible con los dispositivos (portátiles/tablets) de los que dispone el alumnado y el centro educativo, permitiendo el trabajo colaborativo en tiempo real.<br /><strong>Características del Alumnado:</strong> La interfaz de BookCreator es sumamente intuitiva (\"arrastrar y soltar\"), lo que reduce la curva de aprendizaje técnico. Esto es vital para que los alumnos no se frustren con la tecnología y puedan centrarse en la calidad del contenido periodístico. Se ajusta muy bien a su nivel de competencia digital, permitiendo desde el diseño básico hasta la edición avanzada. Considero que es correcta para alumnado con 16 años de media.<br /><strong>Inclusión y DUA:</strong> La herramienta ofrece opciones de accesibilidad, como el dictado por voz o la lectura de libros, lo que garantiza que todo el alumnado, independientemente de sus necesidades específicas, pueda participar activamente en la creación del periódico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz0y-g1winubfv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas para la curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para la curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para la curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz0y-g1winubfv</odePageId>
+      <odeBlockId>block-1778954356835-e7sfsfoht</odeBlockId>
+      <blockName>TODA LA DOCUMENTACIÓN DE CONSULTA</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz0y-g1winubfv</odePageId>
+          <odeBlockId>block-1778954356835-e7sfsfoht</odeBlockId>
+          <odeIdeviceId>idevice-1778954356831-p4suc0jc3</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/gmarege702/mi-sandbox-supercalifragilisticoespialidoso-asj1kpcry1qv1yze" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp8tcz0y-g1winubfv</odePageId>
+      <odeBlockId>block-1778954907407-2qq6zve5b</odeBlockId>
+      <blockName>MIS IMPRESCINDIBLES PARA EL TRABAJO</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz0y-g1winubfv</odePageId>
+          <odeBlockId>block-1778954907407-2qq6zve5b</odeBlockId>
+          <odeIdeviceId>idevice-1778954907405-6ukx7c96p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAASJvXyoAA41-5Ed_Jw==" title="MIS IMPRESCINDIBLES">¡CLICA AQUÍ Y ACCEDE A MIS IMPRESDINDIBLES!</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778954907405-6ukx7c96p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAASJvXyoAA41-5Ed_Jw==\" title=\"MIS IMPRESCINDIBLES\">¡CLICA AQUÍ Y ACCEDE A MIS IMPRESDINDIBLES!</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz11-wwz1kmq3g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz11-wwz1kmq3g</odePageId>
+      <odeBlockId>block-1778958121545-sgir1aye3</odeBlockId>
+      <blockName>TEMPORALIZACIÓN DEL PROYECTO</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz11-wwz1kmq3g</odePageId>
+          <odeBlockId>block-1778958121545-sgir1aye3</odeBlockId>
+          <odeIdeviceId>idevice-1778958121541-coad2l1oe</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://go.bubbl.us/f1d58a/cced?/Process" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz12-x98dbd9mz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz12-x98dbd9mz</odePageId>
+      <odeBlockId>block-1778958336489-09700glcu</odeBlockId>
+      <blockName>¿Cómo lo evaluaremos?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz12-x98dbd9mz</odePageId>
+          <odeBlockId>block-1778958336489-09700glcu</odeBlockId>
+          <odeIdeviceId>idevice-1778958336486-6wb09jm9u</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778958336486-6wb09jm9u" title="evaluación" href="{{context_path}}/content/resources/gemini_Generated_Image_py2mx4py2mx4py2m.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/gemini_Generated_Image_py2mx4py2mx4py2m.png" height="128" width="128" title="evaluación" alt="evaluación" titlelink="" author="Gabriel Márquez Egea" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778958336486-6wb09jm9u","img_0":{"img":"blob:app://localhost/98289e25-5ed3-4eb4-8f23-47b3634e7cae","thumbnail":"blob:app://localhost/98289e25-5ed3-4eb4-8f23-47b3634e7cae","title":"evaluación","linktitle":"","author":"Gabriel Márquez Egea","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp8tcz12-x98dbd9mz</odePageId>
+      <odeBlockId>block-1778959978596-i3rxlncw3</odeBlockId>
+      <blockName>Para continuar...</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz12-x98dbd9mz</odePageId>
+          <odeBlockId>block-1778959978596-i3rxlncw3</odeBlockId>
+          <odeIdeviceId>idevice-1778959978593-notpgvdct</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En los siguientes subapartados encontraremos...</p>
+<p>¡Documentos que relacionan las tareas del proyecto con los criterios de evaluación y diferentes instrumentos de evaluación! </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778959978593-notpgvdct","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En los siguientes subapartados encontraremos...</p>\n<p>¡Documentos que relacionan las tareas del proyecto con los criterios de evaluación y diferentes instrumentos de evaluación! </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz14-s1ylhqeej</odePageId>
+  <odeParentPageId>page-mp8tcz12-x98dbd9mz</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz14-s1ylhqeej</odePageId>
+      <odeBlockId>block-1778958901639-k5puwk43d</odeBlockId>
+      <blockName>Relación tareas - criterios de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz14-s1ylhqeej</odePageId>
+          <odeBlockId>block-1778958901639-k5puwk43d</odeBlockId>
+          <odeIdeviceId>idevice-1778958901636-sjvjmivfu</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1R4ocU_zLGOvQh06sb3es8NP77HH4-_R7tHJmEocZbgo/edit?usp=sharing" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz16-jzlo74a8o</odePageId>
+  <odeParentPageId>page-mp8tcz12-x98dbd9mz</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz16-jzlo74a8o</odePageId>
+      <odeBlockId>block-1778959140206-8os3zx3m0</odeBlockId>
+      <blockName>RÚBRICA</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz16-jzlo74a8o</odePageId>
+          <odeBlockId>block-1778959140206-8os3zx3m0</odeBlockId>
+          <odeIdeviceId>idevice-1778959140205-ffx9sx5xx</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778959140205-ffx9sx5xx" title="Rúbrica" href="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0001.jpg" height="128" width="128" title="Rúbrica" alt="Rúbrica" titlelink="" author="Gabriel Márquez Egea" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778959140205-ffx9sx5xx" title="Rúbrica" href="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0002.jpg" height="128" width="128" title="Rúbrica" alt="Rúbrica" titlelink="" author="Gabriel Márquez Egea" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778959140205-ffx9sx5xx","img_6":{"img":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0001.jpg","title":"Rúbrica","linktitle":"","author":"Gabriel Márquez Egea","linkauthor":"","license":"Todos los derechos reservados"},"img_7":{"img":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0002.jpg","thumbnail":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (1) (1)_page-0002.jpg","title":"Rúbrica","linktitle":"","author":"Gabriel Márquez Egea","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp8tcz16-jzlo74a8o</odePageId>
+      <odeBlockId>block-1778959389258-3jwhe8tso</odeBlockId>
+      <blockName>LISTA DE COTEJO</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz16-jzlo74a8o</odePageId>
+          <odeBlockId>block-1778959389258-3jwhe8tso</odeBlockId>
+          <odeIdeviceId>idevice-1778959389255-08nke1275</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778959389255-08nke1275" title="lista de cotejo" href="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0001.jpg" height="128" width="128" title="lista de cotejo" alt="lista de cotejo" titlelink="" author="Gabriel Márquez Egea" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778959389255-08nke1275" title="lista de cotejo" href="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0002.jpg" height="128" width="128" title="lista de cotejo" alt="lista de cotejo" titlelink="" author="Gabriel Márquez Egea" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778959389255-08nke1275","img_2":{"img":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0001.jpg","title":"lista de cotejo","linktitle":"","author":"Gabriel Márquez Egea","linkauthor":"","license":"Todos los derechos reservados"},"img_3":{"img":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0002.jpg","thumbnail":"{{context_path}}/content/resources/gABRIEL MÁRQUEZ EGEA 8.1. Instrumentos de evaluación. (2)_page-0002.jpg","title":"lista de cotejo","linktitle":"","author":"Gabriel Márquez Egea","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8tcz1a-yxr1mo4ke</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8tcz1a-yxr1mo4ke</odePageId>
+      <odeBlockId>block-1778952441163-xwn6mxkwu</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8tcz1a-yxr1mo4ke</odePageId>
+          <odeBlockId>block-1778952441163-xwn6mxkwu</odeBlockId>
+          <odeIdeviceId>idevice-1778952441160-3kekwwltf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>SITUACIÓN DE APRENDIZAJE</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Hacia el abismo? </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Se trata de una Situación de Aprendizaje en la que el alumnado debe comprender las causas y consecuencias de la Primera Guerra Mundial y el proceso revolucionario ruso. Trabajará con fuentes directas (textos, mapas y cartelería) para analizar el concepto de "guerra total" y la formación de la URSS, desarrollando un producto final colaborativo que sintetice estos hitos históricos.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Gabriel Márquez Egea</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
